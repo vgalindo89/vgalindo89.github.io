@@ -10,4 +10,5 @@ ol {
 
 img {
  width: 50%;
+ display: inline-block;
 }
